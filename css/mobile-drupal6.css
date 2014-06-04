@@ -1,0 +1,187 @@
+/**********************************************
+* Template Version 1.06.1 - February 2011 *
+**********************************************/
+
+/* Mobile */
+
+@media (max-width: 568px) {
+  body {
+      min-width: 0!important;
+      /*max-width: 1024px!important;*/
+  }
+  #sitebox .parent {
+      display: none!important;
+  }
+  #imagestripe {
+      width:inherit!important;
+  }
+  #imagebox {
+      width:inherit!important;
+      max-width:none!important;
+  }
+  /*#imagestripe, #imagebox {
+      background: transparent!important;
+  }*/
+  /*#block-block-5 {
+      display: none!important;
+  }*/
+  #block-views-Artists_Series-block_4 .view-header h1 {
+      font-size: 240%!important;
+      line-height: .9!important;
+  }
+  #block-views-Artists_Series-block_4 .view-header p {
+      font-size: 180%!important;
+  }
+  #block-views-Artists_Series-block_4 {
+      top: -100px!important;
+  }
+  #block-views-Artists_Series-block_4 .view-content {
+      padding: 0 10px!important;
+  }
+  #tabs-wrapper {
+      padding:10px!important;
+  }
+  #sitebox {
+      height: auto!important;
+      overflow:hidden!important;
+      width:inherit!important;
+      max-width:none!important;
+  }
+  #sitebox h2 {
+      padding-top:0!important;
+      margin-bottom:0!important;
+  }
+  .site-name {
+      margin-top:0!important;
+  }
+  #promobox {
+      width:inherit!important;
+      float:none!important  ;
+  }
+  #main #submitted-message {
+      width: inherit!important;
+  }
+  #nav, #sidebar {
+      float:none!important;
+      min-height:0!important;
+      height:inherit!important;
+  }
+  .column {
+      float: none!important; 
+  }
+  #sidebar-right {
+      display: none!important;
+  }
+  #sidebar {
+      border-left: 0px!important;
+      padding-left: 0px!important;
+      width:inherit!important;
+  }
+  #contentstripe {
+      width:inherit!important;
+      max-width:none!important;
+  }
+  #contentbox #nav {
+      padding-left: 0!important;
+      padding-right: 0!important;
+      padding-bottom:20px!important;
+      /*margin-bottom: 2em!important;*/
+      background:rgb(250,250,250);
+      display:block;
+      width:inherit!important;
+  }
+  #nav ul li {
+      padding: 12px 0 10px 10px;
+      margin:0!important;
+      border-bottom: 1px solid #eee;
+  }
+  #nav ul li a,
+  #footerbox a {
+      display:block!important;
+      border:0!important;
+  }
+  #utiltystripe {
+      width: inherit!important;
+  }
+  #utilitybox {
+      padding: 0!important;
+      width:inherit!important;
+      text-align:left!important;
+      max-width: none!important;
+  }
+  #utilitybox li {
+      padding: 20px 15px!important;
+      margin:0!important;
+  }
+  #utilitybox ul {
+      padding:0!important;
+      display:block!important;
+  }
+  #utilitybox ul li {
+      display:none!important;
+  }
+  #utilitybox ul li:first-child {
+      text-align:left!important;
+      display:block!important;
+  }
+  #sitestripe {
+      width:inherit!important;
+      
+  }
+  #contentstripe #contentbox {
+      background-color:#eee!important;
+      max-width: inherit!important;
+      width:auto!important;
+      padding:0 10px!important;
+  }
+  #contentbox,
+  #nav {
+      border:0!important;
+      padding:0 10px!important;
+  }
+  #sidebar p {
+      display:none;
+   }
+  #main {
+      border:0!important;
+      padding:10px 10px 10px 10px!important;
+      background-color:#fff;
+      margin-left:0!important;
+      margin-right:0!important;
+      width:inherit!important;
+  }
+  /*.span4 {
+      width:inherit!important;
+  }*/
+  .skiplinks {
+      display:none!important;
+  }
+  #footerstripe {
+      width:inherit!important;
+  }
+  #footerbox {
+      width:inherit!important;
+      max-width:none!important;
+  }
+  #footerbox ul {
+      display:none;
+      margin-left:185px;
+      line-height:normal!important;
+  }
+  #footerbox ul li {
+      border:0!important;
+      float:none!important;
+  }
+  #footerbox ul li:first-child {
+      display:none;
+  }
+  #footerbox ul li:last-child {
+      display:block;
+      margin-top:1em;
+  }
+  #footerbox img {
+      padding-bottom:0!important;
+      float:none!important;
+      border:0!important;
+  }
+}
