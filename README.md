@@ -1,4 +1,4 @@
 sf-state-rwd
 ============
 
-Responsive Web Design enhancements for SF State Drupal themes.
+Responsive Web Design styles for SF State Drupal themes.
